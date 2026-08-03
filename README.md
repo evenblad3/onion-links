@@ -1,5 +1,6 @@
 # onion-links
 
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)<br>
 Curated list of Tor (.onion) services with the goal of helping researchers, privacy-focused users, and security enthusiasts discover legitimate and useful Tor resources without having to dig through unsafe directories.
 This list is indexed in alphabetical order, each entry is reviewed for safety and labelled with an NSFW indicator.
 Illegal content is not hosted or linked intentionally.
