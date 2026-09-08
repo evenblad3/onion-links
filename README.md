@@ -61,7 +61,6 @@ Illegal content is not hosted or linked intentionally.
 | [4get](http://4getwebfrq5zr4sxugk6htxvawqehxtdgjrbcn2oslllcol2vepa23yd.onion) | Privacy-focused metasearch engine | No |
 | [Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion) | Tor hidden services search engine | No |
 | [DuckDuckGo](http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) | Privacy-focused search engine | No |
-| [ExcavaTOR](http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion) | Anonymous dark web search engine | Yes |
 | [SearchXNG](http://searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion) | Privacy metasearch aggregator | No |
 
 [⬆ Back to Index](#index)
