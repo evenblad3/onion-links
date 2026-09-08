@@ -7,6 +7,7 @@ Illegal content is not hosted or linked intentionally.
 
 ## Index
 * [Articles](#articles)
+* [Biohacking](#biohacking)
 * [Directories](#directories)
 * [Forums](#forums)
 * [Privacy](#privacy)
@@ -20,6 +21,14 @@ Illegal content is not hosted or linked intentionally.
 | [Online Spyware Watchdog](http://spywareitdaiuyfo2sqb5vsg7mek5cjabdr73luhnda57t2hyuzg7yyd.onion) | Spyware classification and awareness resource | No |
 | [PatchySICP](http://sicp22p3jmr4yvlkqw3daf45uh6h7yyej3x5jxtolwjlygxf75xgiqad.onion) | Personal technology blog | No |
 | [Shadow Wiki](http://abrx6wcpzkfpwxb5eb2wsra2wnkrv2macdtkpnrepswodz5jxd4schyd.onion) | Privacy, security, and decentralization wiki | No |
+
+[⬆ Back to Index](#index)
+<br>
+
+### Biohacking
+| Site | Description | NSFW |
+|:---|:---|:---|
+| [Longevity World Cup](http://lwc7tszawiykmkjoq4u2yxramezkwbdys2wxr2fmf6sdr6ug5t36ckqd.onion) | Leaderboard and competition platform for longevity athletes | No |
 
 [⬆ Back to Index](#index)
 <br>
