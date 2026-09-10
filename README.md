@@ -16,7 +16,9 @@ Illegal content is not hosted or linked intentionally.
 ### Articles
 | Site | Description | NSFW |
 |:---|:---|:---|
+| [AnarSec](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion) | Tech Guides for Anarchists | No |
 | [Dig Deeper](http://us63bgjkxwpyrpvsqom6kw3jcy2yujbplkhtzt64yykt42ne2ms7p4yd.onion) | Software, society, and privacy analysis blog | No |
+| [Freak Spot](http://63xpbju6u6kzge3k5mobwivob2seui4ka26l2iboraw5lxz262brgjad.onion) | Better with free software | No |
 | [No Trace Project](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion) | Anti-surveillance tools and guides for activists | No |
 | [Online Spyware Watchdog](http://spywareitdaiuyfo2sqb5vsg7mek5cjabdr73luhnda57t2hyuzg7yyd.onion) | Spyware classification and awareness resource | No |
 | [PatchySICP](http://sicp22p3jmr4yvlkqw3daf45uh6h7yyej3x5jxtolwjlygxf75xgiqad.onion) | Personal technology blog | No |
@@ -70,7 +72,9 @@ Illegal content is not hosted or linked intentionally.
 | [4get](http://4getwebfrq5zr4sxugk6htxvawqehxtdgjrbcn2oslllcol2vepa23yd.onion) | Privacy-focused metasearch engine | No |
 | [Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion) | Tor hidden services search engine | No |
 | [DuckDuckGo](http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) | Privacy-focused search engine | No |
+| [Onion Search Engine](http://37djtvjcpiprohcrlyvlhfil45kdlfizsyvilqskgvdrafn5mocz4cid.onion) | Search the Tor network & dark web | No |
 | [SearchXNG](http://searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion) | Privacy metasearch aggregator | No |
+| [WannaTOR](http://wannaacuvurzcpkdzvj2pazulvbijfwxi44zibsmlwd3iq6lzz2euwid.onion) | Privacy-focused search engine | No |
 
 [⬆ Back to Index](#index)
 <br>
