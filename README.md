@@ -8,6 +8,7 @@ Illegal content is not hosted or linked intentionally.
 ## Index
 * [Articles](#articles)
 * [Biohacking](#biohacking)
+* [Blog](#blog)
 * [Directories](#directories)
 * [Forums](#forums)
 * [Privacy](#privacy)
@@ -31,6 +32,14 @@ Illegal content is not hosted or linked intentionally.
 | Site | Description | NSFW |
 |:---|:---|:---|
 | [Longevity World Cup](http://lwc7tszawiykmkjoq4u2yxramezkwbdys2wxr2fmf6sdr6ug5t36ckqd.onion) | Leaderboard and competition platform for longevity athletes | No |
+
+[⬆ Back to Index](#index)
+<br>
+
+### Blog
+| Site | Description | NSFW |
+|:---|:---|:---|
+| [icum.to](http://ashley6njwcozxrs6hknlwr73dwmgmnbb4cz6ckdljuwoek7q27equqd.onion) | Ashley's personal blog | No |
 
 [⬆ Back to Index](#index)
 <br>
