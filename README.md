@@ -6,6 +6,7 @@ This list is indexed in alphabetical order, each entry is reviewed for safety an
 Illegal content is not hosted or linked intentionally.
 
 ## Index
+* [Archive](#archive)
 * [Articles](#articles)
 * [Biohacking](#biohacking)
 * [Blog](#blog)
@@ -13,6 +14,15 @@ Illegal content is not hosted or linked intentionally.
 * [Forums](#forums)
 * [Privacy](#privacy)
 * [Search Engines](#search-engines)
+
+### Archive
+| Site | Description | NSFW |
+|:---|:---|:---|
+| [DEF CON](http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion) | Archives of conferences | No |
+| [InfoCon](http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion) | Hacking and Security Conference Archives | No |
+
+[⬆ Back to Index](#index)
+<br>
 
 ### Articles
 | Site | Description | NSFW |
