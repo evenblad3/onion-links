@@ -8,10 +8,12 @@ Illegal content is not hosted or linked intentionally.
 ## Index
 * [Archive](#archive)
 * [Articles](#articles)
+* [Bible](#bible)
 * [Biohacking](#biohacking)
 * [Blog](#blog)
 * [Directories](#directories)
 * [Forums](#forums)
+* [Messaging](#messaging)
 * [Privacy](#privacy)
 * [Search Engines](#search-engines)
 
@@ -34,6 +36,14 @@ Illegal content is not hosted or linked intentionally.
 | [Online Spyware Watchdog](http://spywareitdaiuyfo2sqb5vsg7mek5cjabdr73luhnda57t2hyuzg7yyd.onion) | Spyware classification and awareness resource | No |
 | [PatchySICP](http://sicp22p3jmr4yvlkqw3daf45uh6h7yyej3x5jxtolwjlygxf75xgiqad.onion) | Personal technology blog | No |
 | [Shadow Wiki](http://abrx6wcpzkfpwxb5eb2wsra2wnkrv2macdtkpnrepswodz5jxd4schyd.onion) | Privacy, security, and decentralization wiki | No |
+
+[⬆ Back to Index](#index)
+<br>
+
+### Bible
+| Site | Description | NSFW |
+|:---|:---|:---|
+| [Bible4u](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion) | Uncensored Bible for Darknet | No |
 
 [⬆ Back to Index](#index)
 <br>
@@ -74,13 +84,23 @@ Illegal content is not hosted or linked intentionally.
 [⬆ Back to Index](#index)
 <br>
 
+### Messaging
+| Site | Description | NSFW |
+|:---|:---|:---|
+| [Black Hat Chat](http://blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion) | Anonymous chat | No |
+
+[⬆ Back to Index](#index)
+<br>
+
 ### Privacy
 | Site | Description | NSFW |
 |:---|:---|:---|
 | [owledge](http://owlzyj4to3l5daq6edgsgp5z4lh4tzlnms4z6jv6xdtkily77j4b3byd.onion) | Comprehensive Tor network guide | No |
 | [PrivacyDev](http://g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion) | Personal privacy technology blog | No |
 | [Privacy Guides](http://xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion) | Non-profit digital privacy advocacy | No |
+| [Qubes OS](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) | A reasonably secure operating system | No |
 | [The OPSEC Bible](http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion) | Operational security guide | No |
+| [SecureDrop](http://he5dybnt7sr6cm32xt77pazmtm65flqy6irivtflruqfc5ep7eiodiad.onion) | An open source whistleblower submission system | No |
 
 [⬆ Back to Index](#index)
 <br>
