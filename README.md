@@ -34,6 +34,7 @@ Illegal content is not hosted or linked intentionally.
 | [Freak Spot](http://63xpbju6u6kzge3k5mobwivob2seui4ka26l2iboraw5lxz262brgjad.onion) | Better with free software | No |
 | [No Trace Project](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion) | Anti-surveillance tools and guides for activists | No |
 | [Online Spyware Watchdog](http://spywareitdaiuyfo2sqb5vsg7mek5cjabdr73luhnda57t2hyuzg7yyd.onion) | Spyware classification and awareness resource | No |
+| [0ut3r Space](https://reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion) | News, articles, tutorials about IT | No |
 | [PatchySICP](http://sicp22p3jmr4yvlkqw3daf45uh6h7yyej3x5jxtolwjlygxf75xgiqad.onion) | Personal technology blog | No |
 | [Shadow Wiki](http://abrx6wcpzkfpwxb5eb2wsra2wnkrv2macdtkpnrepswodz5jxd4schyd.onion) | Privacy, security, and decentralization wiki | No |
 
